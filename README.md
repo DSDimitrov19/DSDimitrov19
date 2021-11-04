@@ -27,5 +27,5 @@
 
 ### GitHub Stats 
 
-| <a href="https://github.com/DSDimitrov19"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DSDimitrov19&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="DSDimitrov19's github stats" /></a> | <a href="https://github.com/DSDimitrov19"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsdimitrov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true" /></a> |
+| <a href="https://github.com/DSDimitrov19"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DSDimitrov19&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="DSDimitrov19's github stats" /></a> | <a href="https://github.com/DSDimitrov19"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsdimitrov19&show_icons=true&hide_border=true&layout=compact&count_private=true&count_fork=true&theme=dark" /></a> |
 | ------------- | ------------- |
