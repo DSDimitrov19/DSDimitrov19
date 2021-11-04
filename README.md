@@ -25,7 +25,7 @@
 
 ---
 
-### 📺 GitHub Stats 
+### GitHub Stats 
 
 | <a href="https://github.com/DSDimitrov19"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DSDimitrov19&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="DSDimitrov19's github stats" /></a> | <a href="https://github.com/DSDimitrov19"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSDimitrov19&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
