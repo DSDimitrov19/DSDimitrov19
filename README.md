@@ -6,8 +6,6 @@
 - 👯 I’m looking to collaborate with other young programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-<br />
-
 ---
 
 ### Languages and Tools:
@@ -31,4 +29,4 @@
 
 ### 📺 GitHub Stats 
 
-<img align="left" alt="Dimitar's GitHub Stats" src="https://github-readme-stats.dsdimitrov19.vercel.app/api?username=DSDimitrov19&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DSDimitrov19&show_icons=true&theme=dark&count_private=true" />
