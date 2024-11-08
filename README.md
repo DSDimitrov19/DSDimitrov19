@@ -31,9 +31,4 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" style="margin: 10px;"/>
     </a>
   </p>
-
-  <h3 style="font-family: 'Arial', sans-serif; color: #E74C3C;">GitHub Stats:</h3>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsdimitrov19&theme=dark" alt="dsdimitrov19" style="border-radius: 10px;"/>
-  </p>
 </div>
