@@ -3,8 +3,8 @@
   <h3 style="font-family: 'Arial', sans-serif; color: #7F8C8D;">A passionate developer from Bulgaria</h3>
 
   <p style="font-size: 1.2em;">
-    - 🔭 I’m currently working on <a href="https://github.com/dimitars-resources" style="color: #3498DB; text-decoration: none;">Dimitar's resources</a><br>
-    - 📫 How to reach me: <strong>info@dimitar.store</strong>
+    - 🔭 I’m currently working on IDM Digital<br>
+    - 📫 How to reach us: <strong>info@idm-digital.com</strong>
   </p>
 
   <h3 style="font-family: 'Arial', sans-serif; color: #2ECC71;">Languages and Tools:</h3>
