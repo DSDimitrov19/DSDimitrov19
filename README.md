@@ -3,7 +3,7 @@
   <h3 style="font-family: 'Arial', sans-serif; color: #7F8C8D;">A passionate developer from Bulgaria</h3>
 
   <p style="font-size: 1.2em;">
-    - 🔭 I’m currently working on IDM Digital<br>
+    - 🔭 I’m currently working on <a href="https://idm-digital.com" target="_blank">IDM Digital<a/><br>
     - 📫 How to reach us: <strong>info@idm-digital.com</strong>
   </p>
 
